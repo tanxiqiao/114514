@@ -15,3 +15,4 @@ function dig(obj,target){
     }
   }
 }
+//test
